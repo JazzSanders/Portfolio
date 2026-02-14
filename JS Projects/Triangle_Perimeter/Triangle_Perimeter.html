@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Triangle Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Triangle Visualizer</h1>
+        
+        <div class="input-grid">
+            <div class="point-input">
+                <label>Point A (x1, y1)</label>
+                <input type="number" id="x1" value="50" oninput="draw()">
+                <input type="number" id="y1" value="50" oninput="draw()">
+            </div>
+            <div class="point-input">
+                <label>Point B (x2, y2)</label>
+                <input type="number" id="x2" value="150" oninput="draw()">
+                <input type="number" id="y2" value="50" oninput="draw()">
+            </div>
+            <div class="point-input">
+                <label>Point C (x3, y3)</label>
+                <input type="number" id="x3" value="100" oninput="draw()">
+                <input type="number" id="y3" value="150" oninput="draw()">
+            </div>
+        </div>
+
+        <button onclick="calculate()">Calculate Area & Perimeter</button>
+
+        <canvas id="triangleCanvas" width="400" height="400"></canvas>
+
+        <div id="results">
+            <p>Perimeter: <span id="peri-val">-</span></p>
+            <p>Area: <span id="area-val">-</span></p>
+        </div>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
