@@ -12,7 +12,7 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/Essay images/Hand holding phone.jpg">
 
 ## What is "Access" in 2026?
 
