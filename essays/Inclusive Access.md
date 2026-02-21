@@ -25,13 +25,11 @@ If a student can't access their textbook because of a logistical error, they fai
 My experience managing textbook logistics gave me a unique perspective on user hurdles. I spent years as a technical point of contact for faculty, resolving hurdles that impacted student performance. Now, I resolve those hurdles in the code itself.
 
 In my Quiz Game Web Application, I didn't just focus on the real-time scoring logic. I prioritized:
-
-Keyboard Navigation: Ensuring players don't need a mouse to compete.
-
-Screen Reader Compatibility: Making the live lobby "audible" for visually impaired users.
-
-High Contrast: Ensuring the competitive interface is legible under any lighting condition.
-
+<ul>
+<li>Keyboard Navigation: Ensuring players don't need a mouse to compete.</li>
+<li>Screen Reader Compatibility: Making the live lobby "audible" for visually impaired users.</li>
+<li>High Contrast: Ensuring the competitive interface is legible under any lighting condition.</li>
+</ul>
 ## Conclusion
 
 Whether I am distributing physical books or deploying a Firebase application, my mission is the same: ensuring that everyone, regardless of their circumstances or abilities, has "day-one readiness." Accessibility isn't a "feature" you add at the end; it is a foundational requirement of ethical development.
