@@ -11,7 +11,7 @@ labels:
   - Soft SKills
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/Essay images/Code Handshake.jpg">
 
 ## Is Code Just Syntax, or is it Communication?
 
