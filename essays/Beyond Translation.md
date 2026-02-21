@@ -13,7 +13,7 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Essay images/World of People.jpg">
 
 ## Localization is Not Google Translate
 
