@@ -23,13 +23,11 @@ In aerospace, "User Error" is often actually "Design Error." If a pilot flips th
 ## The Deployment Checklist
 
 In web development, a broken link or a non-responsive layout might not be life-threatening, but for a business, it can be a "mission-critical" failure. I treat every site deployment like a pre-flight inspection.
-
-Accessibility Check: Is the contrast high enough for all users?
-
-Cross-Browser Sync: Does it perform on Safari as well as Chrome?
-
-Logic Verification: Does the scoring engine handle edge cases?
-
+<ul>
+<li>Accessibility Check: Is the contrast high enough for all users?</li>
+<li>Cross-Browser Sync: Does it perform on Safari as well as Chrome?</li>
+<li>Logic Verification: Does the scoring engine handle edge cases?</li>
+</ul>
 During the development of my recent projects, I implemented strict validation steps. Much like an airport manager oversees complex logistical chains, I manage the "logistics of data"—ensuring that every packet reaches its destination without "turbulence."
 
 ## Conclusion
