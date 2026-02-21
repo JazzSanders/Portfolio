@@ -38,5 +38,5 @@ function calculateScore(timeRemaining) {
     return score;
 }
 
-You can learn more in the <a href="projects/Jasmine Sanders_Report1.docx" download="Jasmine Sanders_Report1.docx">Quiz Game Web Application Report</a>.
+You can learn more in the <a href="projects/Sanders,Jasmine_QuizGameReport.pdf" download="Sanders,Jasmine_QuizGameReport.pdf">Quiz Game Web Application Report</a>.
 You can play the Quiz Game [here](https://jazzsanders.github.io/CSC272---Winter2026/index.html).
