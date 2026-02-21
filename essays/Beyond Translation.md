@@ -24,13 +24,11 @@ During my semester in Granada, I was immersed in a culture where the "flow" of d
 ## Designing for the Global User
 
 In my web development work, I emphasize Semantic HTML and Responsive Design as the foundation for localization. But I go a step further by considering cultural UX:
-
-Hierarchy: Does the layout respect the reading patterns of the target language?
-
-Context: Are the icons used universally understood, or are they culturally specific?
-
-Speed: In areas with different infrastructure, is my code lightweight enough to load quickly?
-
+<ul>
+<li>Hierarchy: Does the layout respect the reading patterns of the target language?</li>
+<li>Context: Are the icons used universally understood, or are they culturally specific?</li>
+<li>Speed: In areas with different infrastructure, is my code lightweight enough to load quickly?</li>
+</ul>
 ## Conclusion
 
 My background in Spanish and cultural studies allows me to build web applications that don't just "translate" words, but "localize" experiences. In an increasingly global digital economy, being able to bridge the gap between different cultures is just as important as bridging the gap between front-end and back-end.
