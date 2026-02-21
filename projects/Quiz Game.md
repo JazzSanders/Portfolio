@@ -30,13 +30,13 @@ As the developer, I was responsible for the full-stack implementation of the pro
 One of the most significant technical achievements was the development of a competitive scoring engine. This time-sensitive algorithm rewards both accuracy and speed to maintain a high level of engagement during live sessions.
 
 Here is the JavaScript logic used to calculate the speed-sensitive score:
-<pre>
-function calculateScore(timeRemaining) {
-    // Competitive scoring engine rewards both accuracy and speed
-    // Score = 50 base points + (time remaining * 100)
-    const score = 50 + (timeRemaining * 100);
-    return score;
+
+function calculateScore(timeRemaining) {  
+    // Competitive scoring engine rewards both accuracy and speed  
+    // Score = 50 base points + (time remaining * 100)  
+    const score = 50 + (timeRemaining * 100);  
+    return score;  
 }
-</pre>
+
 You can learn more in the <a href="https://JazzSanders.github.io/Portfolio/projects/Sanders,Jasmine_QuizGameReport.pdf" download="Sanders,Jasmine_QuizGameReport.pdf">Quiz Game Web Application Report</a>.
 You can play the Quiz Game [here](https://jazzsanders.github.io/CSC272---Winter2026/index.html).
