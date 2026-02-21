@@ -7,7 +7,7 @@
     "phone": "832-260-8625",
     "website": "https://github.com/JazzSanders/Portfolio",
     "summary": "I am studying for a Web Developer Certificate at Sullivan University. I expect to graduate in March, 2026.",
-    "location": { "address": "1280 Cherokee Rd", "postalCode": "40204", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
+    "location": { "address": "1280 Cherokee Rd, Apt 1", "postalCode": "40204", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "JazzSanders", "url": "http://github.com/jazzsanders" },
       { "network": "linkedin", "username": "Jasmine Sanders", "url": "http://linkedin.com/in/JazzSanders" }
