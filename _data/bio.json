@@ -1,0 +1,138 @@
+{
+  "basics": {
+    "name": "Jasmine 'Jazz' Sanders",
+    "label": "Student",
+    "picture": "https://github.com/JazzSanders.png",
+    "email": "jsande4861@my.sullivan.edu",
+    "phone": "832-260-8625",
+    "website": "https://jazzsanders.github.io",
+    "summary": "I am studying for a Web Developer Certificate at Sullivan University. I expect to graduate in March, 2026.",
+    "location": { "address": "1280 Cherokee Rd", "postalCode": "40204", "city": "Louisville", "countryCode": "USA", "region": "Kentucky" },
+    "profiles": [
+      { "network": "github", "username": "JazzSanders", "url": "http://github.com/jazzsanders" },
+      { "network": "linkedin", "username": "Jasmine Sanders", "url": "http://linkedin.com/in/JazzSanders" }
+    ]
+  },
+  "interests": [
+    { "name": "User Experience Design" },
+    { "name": "User Interface Design" },
+    { "name": "Business" },
+    { "name": "Conflict Managment" },
+    { "name": "Aviation" },
+    { "name": "Aerospace Management" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "HTML5", "CSS3", "JavaScript", "UI/UX Basics", "Responsive Design" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "Windows", "MacOS", "iOS" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Web Developer Certificate (expected March, 2026)",
+      "studyType": "Certificate",
+      "startDate": "2025-06-30",
+      "endDate": "Present",
+      "courses": [
+        "A technical deep-dive into the architecture of the modern web. This program focused on full-stack fundamentals, responsive design, and the coding languages necessary to build functional, user-centric digital experiences."
+      ]
+    },
+    {
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Conflict Management (Summa Cum Laude)",
+      "studyType": "Graduate Certificate",
+      "startDate": "2024-09-23",
+      "endDate": "2025-06-15",
+      "courses": [
+        "An intensive study of the mechanics of dispute resolution. Developed professional-grade skills in mediation, negotiation, and restorative justice practices designed to foster collaborative environments in professional settings."
+      ]
+    },
+    {
+      "institution": "Sullivan University, Louisville, KY",
+      "area": "Master of Business Administration with a Concentration in Conflict Management (Summa Cum Laude)",
+      "studyType": "Master's Degree",
+      "startDate": "2023-06-26",
+      "endDate": "2024-09-08",
+      "courses": [
+        "Advanced business training focused on the intersection of executive leadership and human-centric solutions. This program paired core business strategy and organizational behavior with the specialized ability to navigate and resolve high-stakes corporate disputes."
+      ]
+    },
+    {
+      "institution": "Eastern Kentucky University, Richmond, KY",
+      "area": "Aviation with a Concentraiton in Aerospace Management (Magna Cum Laude)",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-08-19",
+      "endDate": "2022-12-03",
+      "courses": [
+        "Comprehensive training in the operational and logistical side of the aviation industry. Curriculum highlights included airport management, aviation safety standards, and the strategic oversight of complex aerospace systems."
+      ]
+    },
+     {
+      "institution": "Eastern Kentucky University, Richmond, KY",
+      "area": "Spanish (Magna Cum Laude)",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2019-08-19",
+      "endDate": "2022-12-03",
+      "courses": [
+        "A degree focused on linguistic mastery and the rich cultural tapestry of the Spanish-speaking world. Beyond language proficiency, the program emphasized historical and social cultural studies, further enriched by a semester of full immersion via a study abroad program in Granada, Spain."
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Sullivan University",
+      "position": "Campus Store Manager",
+      "website": "https://www.sullivan.edu/",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "summary": "Head of the Main Campus Store and Inclusive Access Program for Sullivan University",
+      "highlights": [
+        "Align store services with institutional goals, viewing operational systems as foundational to student persistence",
+        "Translate departmental insights into campus-wide improvements through cross-departmental coordination", "Manage budgets and resources with a focus on long-term institutional value and operational excellence"
+      ]
+    },
+    {
+      "company": "Sullivan University",
+      "position": "Bookstore Coordinator",
+      "website": "https://www.sullivan.edu/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-02-28",
+      "summary": "Coordinator for textbook logistics",
+      "highlights": [
+        "Led the implementation of the Inclusive Access program, ensuring 100% day-one readiness for students through electronic and physical material distribution",
+        "Authored and executed standardized policies for textbook access, reducing technical friction and academic barriers", "Served as a technical point of contact for faculty and staff to resolve hurdles impacting student performance"
+      ]
+    },
+    {
+      "company": "QDOBA",
+      "position": "Assitant Manager",
+      "website": "https://locations.qdoba.com/us/ky/richmond/429-leighway-dr",
+      "startDate": "2019-09-01",
+      "endDate": "2022-04-01",
+      "summary": "Manager of daily, high-volume operations through empathetic leadership and active mediation",
+      "highlights": [
+        "Managed daily operations and lead a cross-functional team with an emphasis on empathy and clarity",
+        "Served as primary mediator for personnel and customer disputes, utilizing specialized communication techniques"
+      ]
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "President's Recognition of Excellence",
+      "date": "2023",
+      "awarder": "Dr. Swenson, President of Sullivan University",
+      "summary": "A prestigious distinction presented by the University President to individuals who demonstrate exceptional leadership and dedication to the institution. This honor, symbolized by a commemorative President’s Coin, recognizes significant contributions to the university’s mission, operational excellence, and the enrichment of the student experience."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
