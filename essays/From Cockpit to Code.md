@@ -12,7 +12,7 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/Essay images/Plane Code.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/Essay images/Plane Code.jpg">
 
 ## Why an Aviation Background Matters in Tech
 
