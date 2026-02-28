@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Triangle Visualizer/Triangle Visualizer.png
 title: "Triangle Visualizer & Calculator"
 date: 2026
 published: true
@@ -13,9 +13,7 @@ summary: "An interactive web application that dynamically renders triangles on a
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/Triangle Visualizer/Triangle Visualizer.png" class="img-thumbnail" >
 </div>
 
 The Triangle Visualizer is a utility designed to bridge the gap between abstract coordinate geometry and visual representation. While many calculators provide numeric outputs, this project allows users to see exactly how shifting a single vertex in a Cartesian plane alters the shape's area and perimeter. The application features a responsive input grid where users can define three distinct points (x, y), which are then instantly reflected on a 400x400 HTML5 Canvas element.
