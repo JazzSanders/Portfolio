@@ -29,6 +29,6 @@ function triangleArea(x1, y1, x2, y2, x3, y3) {
 }
 ```
 
-The perimeter calculation follows the standard distance formula for each side, $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$, summing the results to provide the total boundary length. The result is a lightweight, educational tool that demonstrates the power of combining mathematical algorithms with the native capabilities of the modern web browser.
+The perimeter calculation follows the standard distance formula for each side, $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ , summing the results to provide the total boundary length. The result is a lightweight, educational tool that demonstrates the power of combining mathematical algorithms with the native capabilities of the modern web browser.
 
 Click the link to view the [Triangle Visualizer & Calculator](https://jazzsanders.github.io/Portfolio/projects/Triangle%20Visualizer/Triangle_Perimeter.html).
